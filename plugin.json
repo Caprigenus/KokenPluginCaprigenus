@@ -1,0 +1,9 @@
+{ 
+	"name": "Caprigenus",
+	"version": "2.0",
+	"description": "Extract dominant colors from image",
+	"author": {
+		"name": "Christian Zuegner",
+		"link": "http://caprigen.us"
+	}
+}
